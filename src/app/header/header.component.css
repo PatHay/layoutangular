@@ -1,0 +1,12 @@
+#layout{
+    outline: 2px solid black;
+    background-color: lightblue;
+}
+h5{
+    margin: auto;
+}
+p{
+    font-size: 30pt;
+    padding: 20px;
+    margin: auto;
+}

@@ -1,0 +1,23 @@
+#body{
+    padding: 5%;
+    height: 100%;
+}
+
+#head{
+    width: 100%;
+}
+
+#nav{
+    width: 20%;
+    display: inline-block;
+    margin: 0%;
+    margin-top: 5%;
+    vertical-align: top;
+    height: 100%;
+}
+#main{
+    margin-top: 5%;
+    display: inline-block;
+    width: 63%;
+    margin-left: 10%;
+}

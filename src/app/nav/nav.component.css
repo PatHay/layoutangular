@@ -1,0 +1,20 @@
+#nav{
+    background-color: lightblue;
+    width: 100%;
+    height: 100%;
+    outline: 2px solid black;
+    display: inline-block;
+    padding-bottom: 90%;
+}
+links{
+    margin: 20px;
+    height: 50%;
+}
+a{
+    display: block;
+    text-align: center;
+}
+button{
+    width: 80%;
+    margin: 10%;
+}
